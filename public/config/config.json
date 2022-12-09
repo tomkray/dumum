@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x47D57e73f37A314f6447d962457e3bB5BFe02D73",
+  "SCAN_LINK": "https://etherscan.io/token/0x47d57e73f37a314f6447d962457e3bb5bfe02d73",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DOMUM",
+  "SYMBOL": "DMM",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 195000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/domum",
+  "SHOW_BACKGROUND": true
+}
